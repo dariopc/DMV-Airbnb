@@ -2,9 +2,9 @@
 
 Welcome to the Airbnb Project repository! This project was developed as part of the Data Management and Visualization course. It focuses on analyzing Airbnb data to derive actionable insights using Python and Tableau.
 
-## Overview
+## Overview DMV_Python.ipynb
 
-The project is structured into several key stages:
+The jupyter notebook is structured into several key stages:
 
 - Data Collection: Uploading Airbnb data for analysis.
 
