@@ -2,9 +2,9 @@
 
 Welcome to the Airbnb Project repository! This project was developed as part of the Data Management and Visualization course. It focuses on analyzing Airbnb data to derive actionable insights using Python and Tableau.
 
-Overview
+## Overview
 
-- The project is structured into several key stages:
+The project is structured into several key stages:
 
 - Data Collection: Uploading Airbnb data for analysis.
 
@@ -16,6 +16,6 @@ Overview
 
 - Data Analysis: Extracting insights and conclusions from the processed data.
 
-# Tableau
+## Tableau
 
 https://public.tableau.com/app/profile/sander.thomasrud/viz/dmv-exam-final/Dashboardv6?publish=yes
